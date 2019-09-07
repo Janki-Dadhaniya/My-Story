@@ -1,1 +1,1 @@
-This is another file of story in which we can explain about useful feature of the Xcode.
+This is child branch in which I can only say about child branch of the local repository.
